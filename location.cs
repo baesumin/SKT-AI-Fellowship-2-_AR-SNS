@@ -15,8 +15,8 @@ namespace location
         
         static void Main(string[] args)
         {
-            string ip = "211.198.109.254";
-            string key = "75a9ef22052a566c98c6636019c603ec";
+            string ip = "IP";
+            string key = "KEY";
             Console.WriteLine(getlocation(ip,key));
         }
 
